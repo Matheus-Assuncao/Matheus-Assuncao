@@ -1,3 +1,3 @@
 ### Hi there 👋
 Atualmente estou estudan  python.
-Procuro colabora em projetos que  consiga ganhar exper.
+Procuro colaborar em projetos que consiga adquirir exeperiencia.

@@ -19,7 +19,7 @@ Sou Matheus Assunção, estudante de Engenharia da Computação e técnico em in
 - MySQL e SQL Server
 - Entity Framework Core
 - APIs RESTful
-- Práticas com Microsoft Learn
+- Java
 
 ---
 
